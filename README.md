@@ -4,7 +4,7 @@ Este é um projeto desenvolvido no curso "Análise de Dados" da EBAC que tem o o
 
 Aqui está uma imagem ilustrativa do gráfico gerado:
 
-![Gráfico de linha](imagens/gasolina.png)
+![Gráfico de linha](/content/precogasolinasp-ebac/gasolina.png)
 
 No repositório temos o arquivo gasolina.csv com a base usada, o arquivo gasolina.py com o código para gerar o gráfico e o arquivo gasolina.png com a imagem ilustrativa do gráfico.
 
